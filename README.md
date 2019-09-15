@@ -3,7 +3,7 @@
 
 
 ### Documentations
- - [Javascript Documentation]()
+ - [Javascript Documentation](https://github.com/airbnb/javascript)
  - [Frontend development documentations](https://github.com/juztinlazaro/developers-paperback/blob/master/Frontend%20Standards%20and%20Practices/Home.md)
  - Backend development documentations
  - Infra development documentations

@@ -2,6 +2,8 @@
 
 Hoping as arrived here, you have walked through the section about [Strictly Use of ES6](https://github.com/juztinlazaro/developers-paperback/blob/master/Frontend%20Standards%20and%20Practices/13%20Strict%20ES6.md). Elsewhere, take time and visit the section and it contents.
 
+Also we follow [airbnb javascript standard](https://github.com/airbnb/javascript)
+
 ## Currying
 
 A process to reduce functions of more than one argument to functions of one argument with the help of lambda calculus.
