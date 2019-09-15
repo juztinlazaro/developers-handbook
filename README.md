@@ -11,6 +11,7 @@
  - Typescript Linter
  - Prettier setup
  - Vscode setup and plugins
+ - [Serverless example](https://github.com/serverless/examples)
 
 ### Starterkits
   - [nest-auth-starterkit](https://github.com/juztinlazaro/nest-auth-api-starterkit)
