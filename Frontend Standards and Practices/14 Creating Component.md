@@ -47,7 +47,7 @@ When we first started writing React, we remember seeing many different approache
 
 - We use ES6 and ES7 syntax.
 - If you’re not sure of the distinction between presentational and container components, we recommend you [[read this first |https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0]].
-- Please let us know for any suggestions, questions, or feedback, open an issue [[here | https://github.com/juztinlazaro/developers-paperback/Ubidy_Messenger/issues/new]]
+- Please let us know for any suggestions, questions, or feedback, open an issue [[here | something]]
 
 ### Class Based Components
 
@@ -223,7 +223,7 @@ Components with many props should have each prop on a newline, like above.
 
 ### Creating styles or css
 
-- please read [[this | https://github.com/juztinlazaro/developers-paperback/Ubidy_Messenger/wiki/Css-Style-Guide]]
+- please read [issue](https://github.com/juztinlazaro/developers-paperback/issues/new)
 
 ```
 import React, { Component } from 'react'

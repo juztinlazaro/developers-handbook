@@ -13,20 +13,17 @@ Note:
 - https://github.com/facebook/prop-types
 - http://reactivex.io/rxjs/ ,[documentation](https://www.learnrxjs.io/)
 - https://github.com/pshrmn/qhistory
-- https://www.npmjs.com/package/@ubidy_devs/ubidy
 - https://lodash.com/
 
 ### UI library
 
 - https://ant.design/docs/react/introduce
-- https://uikit.ubidyapp.com/
 
 ### FONTS / ICONS
 
 - http://glyphicons.com/
 - https://FONTawesome.com/icons
 - https://ant.design/components/icon/
-- `beta` https://uikit.ubidyapp.com/icons
 
 ### CSS compiler
 

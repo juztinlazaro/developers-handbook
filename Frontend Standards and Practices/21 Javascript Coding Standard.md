@@ -1,6 +1,6 @@
 # Javascript Coding Standard
 
-Hoping as arrived here, you have walked through the section about [Strictly Use of ES6](https://github.com/juztinlazaro/developers-paperback/Ubidy_Playbook/blob/master/docs/Frontend%20Standards%20and%20Practices/13%20Strict%20ES6.md). Elsewhere, take time and visit the section and it contents.
+Hoping as arrived here, you have walked through the section about [Strictly Use of ES6](https://github.com/juztinlazaro/developers-paperback/blob/master/Frontend%20Standards%20and%20Practices/13%20Strict%20ES6.md). Elsewhere, take time and visit the section and it contents.
 
 ## Currying
 

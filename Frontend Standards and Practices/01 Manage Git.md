@@ -3,7 +3,7 @@
 ### Clone the project
 
 ```bash
-$ git clone git@github.com:Ubidy/Ubidy_ReactStarterKit.git
+$ git clone repo
 ```
 
 ### Develop a new feature in 'master' branch
@@ -41,7 +41,7 @@ $ git push --set-upstream origin JSL-GEN-143
 #### 4. Make a pull request using github website
 
 Navigate to the project on Github and open a pull request with the following
-branch settings or **[click here](https://github.com/juztinlazaro/developers-paperback/Ubidy_ReactStarterKit/pulls)**
+branch settings or **[click here](https://github.com/juztinlazaro/developers-paperback/pulls)**
 
 - Step 1: Click **"New pull request"** button
 - Step 2: Choose a base branch **"master"** and make sure the compare branch is **"your new branch"**
