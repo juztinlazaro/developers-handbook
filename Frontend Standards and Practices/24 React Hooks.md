@@ -1,6 +1,7 @@
 # React hooks
 
 ### useState
+let you use state and other React features without writing a class.
 ```
 import React, { useState } from 'react';
 
@@ -20,7 +21,7 @@ function Example() {
 ```
 
 ### useEffect
-Cheat sheet for react life cycle -> useEffect
+Cheat sheet for react life cycle -> useEffect performing side effects in function components.
 
 ***componentDidMount***, it will only update once it render;
 ```
@@ -125,7 +126,6 @@ function Example() {
 ```
 
 Note:
-Note
 
 If you use this optimization, make sure the array includes all values from the component scope (such as props and state) that change over time and that are used by the effect. Otherwise, your code will reference stale values from previous renders. Learn more about how to deal with functions and what to do when the array changes too often.
 
