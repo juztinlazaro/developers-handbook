@@ -1,0 +1,38 @@
+
+#### Why ReactJS? What are the Benefits and Reasons to choose it?
+ - So, what are the top benefits ReactJs development company can get from using React in their projects and top reasons to choose?
+ 
+* Component Style Architecture 
+  - ReactJS is Component Style Architecture, and that is where the future of the web is.
+    This Architecture has also helped the Java developer community to migrate to ReactJS with less friction.
+* Less development time and higher quality 
+  - React allows you to write clean and modular code, breaking the project into separate components.
+    So we can reuse code, and which will increase the productivity of developers and ReactJS development company.
+* High performance of your app 
+  -  ReactJS main feature i.e Virtual DOM (in which representation of UI components is kept in memory and then synced with real DOM by library such as ReactDOM)
+  that results in high performance of the app and gives better user experience
+* Strong community 
+  -  Being created by Facebook, the library is still maintained by the company as well as by independent contributors worldwide.
+  Thanks to the community and solid corporate support, React is a reliable and up-to-date technology. Since the community is growing rapidly, it will be easier to hire reactjs developers.
+* Flexible and easy to maintain
+  - React code is easy to update and maintain due to its modular structure.
+  React projects are incredibly flexible and can be scaled easily. It can help you to save time and money in the long run significantly.
+* Many third-party components
+  - Since React has a strong developer community, there are many third-party open source components available which we can use in our project.
+* Easy transition to React Native
+  - React Native is a mobile application development framework, based on React.
+    Thus, it is effortless for ReactJS developers to switch to React Native and create mobile applications with a native look and feel.
+    We can reuse some components developed in React web application in a React Native mobile app (mostly business logic), which improves the development speed.
+* It’s easy to learn
+  - React is much easier to learn than to other popular frontend frameworks like Angular & Vue.
+    It's one of the main reasons why React gained so much popularity in little time. It helps businesses quickly build their projects.
+* Create-react-app
+  - React provides create-react-app, which do all initial heavy lifting of setting up configuration and helps us to focus on code and not toolchain.
+  This command in React installs the dependencies needed to build your project and also generated an initial project structure.
+  By running this command, we can quickly start with new projects.
+* It helps to build rich user interfaces
+  -  Today, the quality of the user interface in an application plays an important role.
+  Poorly designed user interfaces lower the chances of an application to succeed. But, if an application has high-quality UI, then there are better chances for users to love to use the app. React permits building such high-quality, rich user interfaces through its components
+* It allows writing custom components
+  -   React comes with JSX, a syntax extension, which makes it possible to write your components.
+  These components accept HTML quoting and also makes all subcomponent rendering a delightful experience for developers.
